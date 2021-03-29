@@ -1,4 +1,4 @@
 /node_modules
 /source_images/*
-/compressed-images/*
+/compressed_images/*
 /resized_images/*
