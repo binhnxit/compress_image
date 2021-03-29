@@ -1,0 +1,10 @@
+{
+  "name": "compress_image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^9.0.0"
+  }
+}
