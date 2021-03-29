@@ -1,3 +1,4 @@
 /node_modules
-source_images/*
-compressed-images/*
+/source_images/*
+/compressed-images/*
+/resized_images/*
